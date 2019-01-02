@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    align-content: space-between;
+    padding: 0px;
+    margin-top: 0px;
+    width: 600px;
+    border: 1px solid;
+    height: 83%;
+    position: relative;
+}
+ .profile{
+    position: absolute;
+    left:80%;
+    top: 5%;
+} 
+.details{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+} 
+.basic-details p{
+    padding: 5px;
+}
+.objective p{
+    padding: 5px;
+}
+#objective-heading{
+    margin-top: 7px;
+}
+#extra-curricular-activities-heading{
+    margin-top: 13px;
+}
+.extra-curricular-activities p{
+    padding: 5px;
+}
+#personal-details-heading{
+    margin-top: 18px;
+}
+.personal-details p{
+    padding: 5px;
+}
+hr{
+    width: 550px;
+}

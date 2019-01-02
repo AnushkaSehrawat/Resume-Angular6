@@ -1,0 +1,21 @@
+#skills-heading{
+    margin-left: 15px;
+    font-size: 23px;
+    margin-top: 15px;
+}
+.skills-details{
+    margin-top: 4%;
+}
+.skills-details p{
+    margin-left: 30px;
+}
+.skills-container{
+    border: 1px solid;
+    margin-top: 15%;
+    margin-left: 30%;
+    width: 500px;
+    height: 70%;
+}
+.skills-list{
+    margin-left: 50px;
+}

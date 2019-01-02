@@ -1,0 +1,44 @@
+
+ul{
+    list-style: none;
+    padding-left: 0px;
+    border-right: 1 px solid;
+    height: 100%;
+    /* width: 100%;  */
+    background-color: black;
+    margin: 0px;
+    border-right:1px solid black;
+    box-shadow: 10px 10px 5px grey;
+   
+    height: 100%;
+}
+
+li{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    padding-left: 20px;
+    color: whitesmoke;
+}
+
+.container{
+    height: 100%;
+    width: 20%;
+}  
+li:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+.entire-container{
+    display: flex;
+    height: 100%;
+    width: 100%
+}
+
+.side-container{
+    margin-left: 100px;
+}

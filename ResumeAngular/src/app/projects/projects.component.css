@@ -1,0 +1,15 @@
+.project-container{
+    margin-top: 18%;
+    border: 1px solid;
+    width: 600px;
+    height: auto;
+    margin-left: 20%;
+}
+#project-container-heading {
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+li strong{
+    font-size: 18px;
+}
